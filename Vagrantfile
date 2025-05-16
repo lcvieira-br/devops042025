@@ -45,6 +45,7 @@ Vagrant.configure("2") do |config|
         vb.name = "db"
     end
   end
+
 end
 
 
